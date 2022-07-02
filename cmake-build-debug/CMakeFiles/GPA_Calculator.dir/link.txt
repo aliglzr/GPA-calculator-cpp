@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/GPA_Calculator.dir/main.cpp.o -o GPA_Calculator.exe -Wl,--out-implib,libGPA_Calculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
